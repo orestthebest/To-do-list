@@ -1,0 +1,22 @@
+# Kompilierte Java-Klassen
+*.class
+
+# Build-Ausgabeordner
+out/
+bin/
+target/
+
+# Generierte Javadoc
+docs/
+
+# IDE-Dateien
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
